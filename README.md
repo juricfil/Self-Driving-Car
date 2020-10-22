@@ -9,4 +9,25 @@ If you are planing to use it , only thing you should change is path to the pictu
 
 Computer vision is used to :
 1. Load Image 
-![alt text](https://github.com/juricfil/Self-Driving-Car/blob/master/1.jpg?raw=true)
+
+![](LaneDetection/Visualization/1.png)
+
+2. Converting to grayscale and applying Gaussian Blur
+
+![](LaneDetection/Visualization/2.png)
+
+3. Applying Canny Edge Detector
+
+![](LaneDetection/Visualization/3.png)
+
+4. Masking Area Of interes
+
+![](LaneDetection/Visualization/4.png)
+
+5. Applying Hough line transform
+
+![](LaneDetection/Visualization/5.png)
+
+6. Showing final picture with detected lines
+
+![](LaneDetection/Visualization/6.png)
