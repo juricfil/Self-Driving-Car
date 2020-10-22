@@ -7,7 +7,7 @@ If you are planing to use it , only thing you should change is path to the pictu
 
 `image = mpimg.imread('test_images/solidWhiteRight.jpg')` - change test_images/solidWhiteRight.jpg to your path.
 
-Computer vision is used to :
+Computer vision Open CV library is used to :
 1. Load image 
 
 ![](LaneDetection/Visualization/1.png)
