@@ -8,19 +8,19 @@ If you are planing to use it , only thing you should change is path to the pictu
 `image = mpimg.imread('test_images/solidWhiteRight.jpg')` - change test_images/solidWhiteRight.jpg to your path.
 
 Computer vision is used to :
-1. Load Image 
+1. Load image 
 
 ![](LaneDetection/Visualization/1.png)
 
-2. Converting to grayscale and applying Gaussian Blur
+2. Convert to grayscale and apply Gaussian Blur
 
 ![](LaneDetection/Visualization/2.png)
 
-3. Applying Canny Edge Detector
+3. Apply Canny Edge Detector
 
 ![](LaneDetection/Visualization/3.png)
 
-4. Masking Area Of interes
+4. Mask area of interest
 
 ![](LaneDetection/Visualization/4.png)
 
@@ -28,6 +28,6 @@ Computer vision is used to :
 
 ![](LaneDetection/Visualization/5.png)
 
-6. Showing final picture with detected lines
+6. Show final picture with detected lines
 
 ![](LaneDetection/Visualization/6.png)
