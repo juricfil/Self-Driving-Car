@@ -8,4 +8,5 @@ If you are planing to use it , only thing you should change is path to the pictu
 `image = mpimg.imread('test_images/solidWhiteRight.jpg')` - change test_images/solidWhiteRight.jpg to your path.
 
 Computer vision is used to :
-_ Load Image
+1. Load Image 
+![alt text](https://github.com/juricfil/Self-Driving-Car/blob/master/1.jpg?raw=true)
